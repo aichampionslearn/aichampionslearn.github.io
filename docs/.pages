@@ -1,0 +1,7 @@
+nav:
+    - index.md
+    - Python:
+        - material-mkdocs-getting-started-2024.md
+        - admonitions.md
+    - Artificial Intelligence:
+        - content-tabs.md
