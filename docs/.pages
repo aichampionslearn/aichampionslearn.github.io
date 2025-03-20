@@ -1,10 +1,14 @@
 nav:
-    - index.md
-    - Python:
+    - Home: index.md
+    - Notebook Page:
         - python.md
+        - Notebook1: demo-nb.ipynb
+        - Notebook1: demo-nb-md.ipynb
         # - /docs/python/01GettingStarted.md
         # - /docs/python/02GettingStarted.md 
     - Artificial Intelligence:
+        - content-tabs.md
+    - Articles:
         - content-tabs.md
     - Internal Samples:
         - material-mkdocs-getting-started-2024.md

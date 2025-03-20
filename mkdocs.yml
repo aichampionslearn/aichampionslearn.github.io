@@ -48,9 +48,20 @@ theme:
     code: Roboto Mono
 
 plugins:
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: False
+      include: ["*.ipynb"]  # Default: ["*.py", "*.ipynb"]
+      # ignore: ["some-irrelevant-files/*.ipynb"]
+      execute: True
+      allow_errors: false
+      execute_ignore: "my-secret-files/*.ipynb"
+      kernel_name: python3
+      theme: dark
+      include_source: True
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - awesome-pages
+  - awesome-pages:
   # - awesome-nav
   - blog:
       blog_dir: .

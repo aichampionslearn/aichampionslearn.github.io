@@ -1,4 +1,4 @@
-# Welcome to the All things Python ! Hurray This has been updated v01
+## Welcome to the All things Python !
 
 01 Getting Started with Python:
 
@@ -13,4 +13,4 @@
 
     We can use Google Colab or setup a local environment. 
     Use an IDE like Visual Studio or AI based IDE like Cursor or Replit
-    
+        
