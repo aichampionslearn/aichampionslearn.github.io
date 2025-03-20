@@ -55,7 +55,7 @@ plugins:
       # ignore: ["some-irrelevant-files/*.ipynb"]
       execute: True
       allow_errors: false
-      execute_ignore: "my-secret-files/*.ipynb"
+      # execute_ignore: "my-secret-files/*.ipynb"
       kernel_name: python3
       theme: dark
       include_source: True
