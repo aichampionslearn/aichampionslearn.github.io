@@ -1,18 +1,26 @@
 nav:
-    - Home: index.md
-    - Notebook Page:
-        - python.md
-        - Notebook1: demo-nb.ipynb
-        - Notebook1: demo-nb-md.ipynb
+   - Home: index.md
+   - blog: blog/index.md
+   - Python Code: python/index.md
+#         - Notebook1: demo-nb.ipynb
+#        - Notebook1: demo-nb-md.ipynb
+   - AI RAG: ai-rag/index.md
+   # - Samples:
+   #     - samples/material-mkdocs-getting-started-2024.md
+   #     - samples/mkdocscommands.md
+   #     - samples/admonitions.md
+   #     - samples/content-tabs.md
+   #     - samples/code-examples.md
+
+#    - Notebook Page:
+#        - python.md
+#        - Notebook1: demo-nb.ipynb
+#        - Notebook1: demo-nb-md.ipynb
         # - /docs/python/01GettingStarted.md
         # - /docs/python/02GettingStarted.md 
-    - Artificial Intelligence:
-        - content-tabs.md
-    - Articles:
-        - content-tabs.md
-    - Internal Samples:
-        - material-mkdocs-getting-started-2024.md
-        - mkdocscommands.md
-        - admonitions.md
-        - content-tabs.md
-        - code-examples.md
+#    - Artificial Intelligence:
+#        - ai.md
+        # - 01-AI-Introduction/01_LLM.md
+#    - Articles:
+#       - content-tabs.md
+ 

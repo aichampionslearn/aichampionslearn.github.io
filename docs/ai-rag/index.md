@@ -1,17 +1,16 @@
-## Welcome to the All things Python !
+## Welcome Retrieval Augmented Generation or RAG !
 
-01 Getting Started with Python:
+01 What is RAG:
 
-??? info "01 Getting Started with Python"
+??? info "01 What is RAG"
 
     Language Background
     Links to key Resources
 
-02 Environment Setup:
+02 RAG Sample Application:
 
-??? info "Details of Environment Setup"
+??? info "Steps for Sample Application"
 
     We can use Google Colab or setup a local environment. 
     Use an IDE like Visual Studio or AI based IDE like Cursor or Replit
-    
-## 
+        

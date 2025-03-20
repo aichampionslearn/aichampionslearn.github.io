@@ -1,0 +1,16 @@
+# Project information
+site_name: Python related Articles and Code
+
+# Theme
+theme:
+  name: material
+
+# Plugins
+plugins:
+  - search
+  - blog
+
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
