@@ -1,0 +1,14 @@
+nav:
+    - index.md
+    - Python:
+        - python.md
+        # - /docs/python/01GettingStarted.md
+        # - /docs/python/02GettingStarted.md 
+    - Artificial Intelligence:
+        - content-tabs.md
+    - Internal Samples:
+        - material-mkdocs-getting-started-2024.md
+        - mkdocscommands.md
+        - admonitions.md
+        - content-tabs.md
+        - code-examples.md
