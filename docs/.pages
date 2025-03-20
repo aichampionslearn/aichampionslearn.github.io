@@ -1,7 +1,7 @@
 nav:
    - Home: index.md
-   - blog: blog/index.md
-   - Python Code: python/index.md
+   - blog: blog/
+   - python: python/index.md
 #         - Notebook1: demo-nb.ipynb
 #        - Notebook1: demo-nb-md.ipynb
    - AI RAG: ai-rag/index.md
