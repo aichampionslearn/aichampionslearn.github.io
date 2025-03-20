@@ -1,4 +1,4 @@
-## Welcome to the All things Python !
+# Welcome to the All things Python ! Hurray This has been updated v01
 
 01 Getting Started with Python:
 
