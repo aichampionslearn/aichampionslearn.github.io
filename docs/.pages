@@ -1,10 +1,10 @@
 nav:
    - Home: index.md
    - blog: blog/
-   - python: python/index.md
+   - python: python/
 #         - Notebook1: demo-nb.ipynb
 #        - Notebook1: demo-nb-md.ipynb
-   - AI RAG: ai-rag/index.md
+   - AI RAG: ai-rag/
    # - Samples:
    #     - samples/material-mkdocs-getting-started-2024.md
    #     - samples/mkdocscommands.md
