@@ -57,7 +57,7 @@ plugins:
       allow_errors: false
       # execute_ignore: "my-secret-files/*.ipynb"
       kernel_name: python3
-      theme: dark
+      theme: light
       include_source: True
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
